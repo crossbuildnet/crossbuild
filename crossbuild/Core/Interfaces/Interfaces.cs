@@ -1,6 +1,6 @@
 ﻿using Discord;
 
-namespace crossbuild.Core.Interface;
+namespace Crossbuild.Core.Interfaces;
 
 public record ComponentData
 {

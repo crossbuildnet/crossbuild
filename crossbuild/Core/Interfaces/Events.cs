@@ -1,6 +1,6 @@
-﻿using crossbuild.Core.Abstract;
+﻿using Crossbuild.Core.Abstract;
 
-namespace crossbuild.Core.Interfaces;
+namespace Crossbuild.Core.Interfaces;
 
 public interface IClientEvents
 {

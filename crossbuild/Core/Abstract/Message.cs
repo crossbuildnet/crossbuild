@@ -1,4 +1,6 @@
-﻿namespace crossbuild.Core.Abstract;
+﻿using Crossbuild.Core.Interfaces;
+
+namespace Crossbuild.Core.Abstract;
 
 public record MessageData
 {
