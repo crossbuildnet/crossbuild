@@ -1,5 +1,4 @@
-﻿using
-using Discord;
+﻿using Discord;
 
 namespace crossbuild.Core.Interface;
 
